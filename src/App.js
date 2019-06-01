@@ -8,6 +8,9 @@ import AudioAnalyser from './AudioAnalyser'
 
 // https://www.w3schools.com/tags/ref_av_dom.asp
 
+// visualisation : 
+// https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API#Creating_a_waveformoscilloscope
+
 
 
 
